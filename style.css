@@ -1,0 +1,80 @@
+/* #menu {
+    float: right;
+    margin: 10px;
+} */
+
+.baby {
+    margin: 5px;
+}
+
+#logo {
+    font-size: xx-large;
+}
+
+h1 {
+    color:black;
+    /* font-family:; */
+    /* font-size:; */
+    text-align: center;
+}
+
+#imagenes {
+    text-align: center;
+}
+
+.img-home {
+    margin: 15px;
+}
+
+.img {
+    width: 300px;
+    height: 450px;
+}
+
+#p-about {
+    display: inline-block;
+    width: 500px;
+    text-align: left;
+    margin-left: 15px;
+}
+
+#img-about {
+    display: inline-block;
+}
+
+#container-about {
+    text-align: center;
+}
+
+#logo {
+    height: 20px;
+    width: auto;
+}
+
+#contact-form {
+    max-width: 500px;
+    font: 13px Arial, Helvetica, sans-serif;
+    margin: 0 auto;
+}
+
+.form-group label {
+    display: block;
+    margin: 5px 0px 5px 0px;
+}
+
+body {
+    font-family: 'DM Sans', sans-serif;
+}
+
+#footer {
+    background-color: #faf8f5;
+    height: auto;
+}
+
+#navbar {
+    background-color: #faf8f5;
+}
+
+html,body {
+    height: 100%;
+}
